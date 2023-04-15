@@ -7,4 +7,7 @@ public class DemoProject5 {
 		System.out.println("Pushing to remote repository..");
 	}
 
+	public void add(int a, int b) {
+		System.out.println(a+b);
+	}
 }
